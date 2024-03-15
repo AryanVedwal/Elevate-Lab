@@ -1,4 +1,3 @@
-// CategoryFilterButton.js
 import React from "react";
 
 const CategoryFilterButton = ({ categories, selectedCategory, onChange }) => {

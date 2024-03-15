@@ -168,6 +168,7 @@ span.cart::after {
   min-height: 100vh;
   padding: 32px;
   background-color: #f1f1f1;
+  box-shadow: 0 0 10px #f1f1f1 , 0 0 20px #f1f1f1;
 }
 
 .data-head {
